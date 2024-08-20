@@ -1,0 +1,483 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Jeff Liang</title>
+
+  <meta name="author" content="Feng (Jeff) Liang">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/ut_icon.png">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Feng (Jeff) Liang, 梁丰 </name>
+              </p>
+              <p>
+                I am a PhD student at <a href="https://www.utexas.edu/">UT Austin</a>, fortunately working with <a href="https://www.ece.utexas.edu/people/faculty/diana-marculescu">Prof. Diana Marculescu</a>. I obtained my master and bachelor degree from <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a> and <a href="http://english.hust.edu.cn/index.htm">Huazhong University of Science and Technology</a>, respectively.
+              </p>
+              <p>
+                My current research interests lie in vision-language models and generative AI with a special interest in efficiency. If you find any research interests that we might share, feel free to drop me an email. I am always open to potential collaborations.
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:jeffliang@utexas.edu">Email</a> &nbsp/&nbsp
+                <a href="data/CV_JeffLiang.pdf">CV</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?user=ecTFCUMAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://www.linkedin.com/in/feng-liang-854a30150/">Linkedin</a> &nbsp/&nbsp
+                <a href="https://www.zhihu.com/people/liang-feng-53">Zhihu</a> &nbsp/&nbsp
+                <a href="https://twitter.com/LiangJeff95">Twitter</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <a href="images/jeff.jpeg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/jeff.jpeg" class="hoverZoomLink"></a>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>News</heading>
+                <div style="width:100%;overflow-y:scroll; height:230px;">
+                <ul>
+                  <li style="line-height:30px"> <b>May 2024:</b> Checkout our <a href="https://jeff-liangf.github.io/projects/streamv2v/">StreamV2V</a> with <a href="https://github.com/Jeff-LiangF/streamv2v">code&demo</a>!</li>
+                  <li style="line-height:30px"> <b>May 2024:</b> Honored to have been chosen as <a href="https://mlcommons.org/2024/06/2024-mlc-rising-stars/">2024 MLCommons ML and Systems Rising Stars</a>!</li>
+                  <li style="line-height:30px"> <b>February 2024:</b> Two papers (<a href="https://jeff-liangf.github.io/projects/flowvid/">FlowVid</a> and <a href="https://fairy-video2video.github.io/">Fairy</a>) get accepted to CVPR 2024!</li>
+                  <li style="line-height:30px"> <b>January 2024:</b> After being rejected four times, <a href="https://arxiv.org/abs/2205.14540">Supervised MAE (SupMAE)</a> finally gets accepted in AAAI Edge Intelligence Workshop (EIW) 2024 with <b>Best Poster Award</b>!</li>
+                  <li style="line-height:30px"> <b>December 2023:</b> Checkout our video-to-video synthesis work <a href="https://jeff-liangf.github.io/projects/flowvid/">FlowVid</a> and instruction-based <a href="https://fairy-video2video.github.io/">Fairy</a>!</li>
+                  <li style="line-height:30px"> <b>March 2023:</b> I will intern at Meta Gen AI this summer, fortunate to work with <a href="https://scholar.google.com/citations?user=K3QJPdMAAAAJ&hl=en">Dr. Bichen Wu</a>, again!</li>
+                  <li style="line-height:30px"> <b>February 2023:</b> One paper gets accepted to CVPR 2023!</li>
+                  <li style="line-height:30px"> <b>November 2022:</b> Checkout our <a href="https://arxiv.org/abs/2210.04150">Open-vocabulary Segmentation (OVSeg)</a> with <a href="https://github.com/facebookresearch/ov-seg">codes</a> and <a href="https://huggingface.co/spaces/facebook/ov-seg">demo</a>!</li>
+                  <li style="line-height:30px"> <b>August 2022:</b> Checkout our <a href="https://arxiv.org/abs/2205.14540">Supervised MAE (SupMAE)</a> with <a href="https://github.com/enyac-group/supmae">codes&models</a>!</li>
+                  <li style="line-height:30px"> <b>June 2022:</b> Three papers get accepted to ICML workshops 2022!</li>
+                  <li style="line-height:30px"> <b>April 2022:</b> One paper gets accepted to IJCAI 2022 as <b>long oral</b>!</li>
+                  <li style="line-height:30px"> <b>March 2022:</b> One paper gets accepted to CVPRW ECV 2022!</li>
+                  <li style="line-height:30px"> <b>February 2022:</b> I will intern at <a href="https://about.facebook.com/realitylabs/">Meta Reality Labs</a> this summer, fortunate to work with <a href="https://scholar.google.com/citations?user=K3QJPdMAAAAJ&hl=en">Dr. Bichen Wu</a>!</li>
+                  <li style="line-height:30px"> <b>January 2022:</b> One paper gets accepted to ICLR 2022!</li>
+                  <li style="line-height:30px"> <b>October 2021:</b> Checkout our <a href="https://arxiv.org/abs/2110.05208">Data efficient CLIP (DeCLIP)</a> with <a href="https://github.com/Sense-GVT/DeCLIP">codes&models</a>!</li>
+                  <li style="line-height:30px"> <b>July 2021:</b> One paper gets accepted to ICCV 2021!</li>
+                  <li style="line-height:30px"> <b>April 2021:</b> I am granted UT Austin Engineering Fellowship!</li>
+                <ul>
+                </div>
+		    </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Publications</heading>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/streamv2v.png" alt="streamv2v" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2405.15757">
+                <papertitle>Looking Backward: Streaming Video-to-Video Translation with Feature Banks</papertitle>
+              </a>
+              <br>
+              <strong>Feng Liang</strong>,
+              <a href="https://scholar.google.co.jp/citations?user=15X3cioAAAAJ&hl=ja">Akio Kodaira</a>,
+              <a href="https://www.chenfengx.com/">Chenfeng Xu</a>,
+              <a href="https://me.berkeley.edu/people/masayoshi-tomizuka/">Masayoshi Tomizuka</a>,
+              <a href="https://people.eecs.berkeley.edu/~keutzer/">Kurt Keutzer</a>,
+              <a href="https://www.ece.utexas.edu/people/faculty/diana-marculescu">Diana Marculescu</a>
+              <br>
+              <em>Manuscript</em>
+              <br>
+              <a href="https://jeff-liangf.github.io/projects/streamv2v/">project page</a>,
+              <a href="https://arxiv.org/abs/2405.15757">arxiv</a>,
+              <a href="https://github.com/Jeff-LiangF/streamv2v">code</a>,
+              <a href="https://huggingface.co/spaces/JeffLiang/streamv2v">Huggingface demo</a>,
+              <!-- <a href="https://www.youtube.com/watch?v=y5IlgGl8Y24">5min video</a>, -->
+              <!--<a href="https://wqpoq.h5.xeknow.com/sl/2sFndr">1hour talk (chinese)</a>,-->
+              <p></p>
+              <p>We present StreamV2V to support real-time video-to-video translation for streaming input.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/flowvid.png" alt="ovseg" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2312.17681">
+                <papertitle>FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis</papertitle>
+              </a>
+              <br>
+              <strong>Feng Liang</strong>,
+              <a href="https://www.linkedin.com/in/bichenwu">Bichen Wu</a>,
+              <a href="https://scholar.google.com/citations?user=R8vOkZYAAAAJ&hl=en">Jialiang Wang</a>,
+              <a href="https://lichengunc.github.io/">Licheng Yu</a>,
+              <a href="https://kunpengli1994.github.io/">Kunpeng Li</a>,
+              <a href="https://yinan-zhao.github.io/">Yinan Zhao</a>,
+              <a href="https://imisra.github.io/">Ishan Misra</a>,
+              <a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a>,
+              <a href="https://www.linkedin.com/in/peizhao-zhang-14846042/">Peizhao Zhang</a>,
+              <a href="https://sites.google.com/site/vajdap">Peter Vajda</a>,
+              <a href="https://www.ece.utexas.edu/people/faculty/diana-marculescu">Diana Marculescu</a>
+              <br>
+              <em>CVPR</em>, 2024, <b>Highlight</b>
+              <br>
+              <a href="https://jeff-liangf.github.io/projects/flowvid/">project page</a>,
+              <a href="https://arxiv.org/abs/2312.17681">arxiv</a>,
+              <!--<a href="https://github.com/facebookresearch/ov-seg">videos</a>,-->
+              <!--<a href="https://huggingface.co/spaces/facebook/ov-seg">Huggingface demo</a>,-->
+              <a href="https://www.youtube.com/watch?v=y5IlgGl8Y24">5min video</a>,
+              <!--<a href="https://wqpoq.h5.xeknow.com/sl/2sFndr">1hour talk (chinese)</a>,-->
+              <p></p>
+              <p>We leverage the temporal optical flow clue within video to enhance the temporal consistency for text guided video-to-video synthesis.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/ovseg.png" alt="ovseg" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2210.04150">
+                <papertitle>Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP</papertitle>
+              </a>
+              <br>
+              <strong>Feng Liang</strong>,
+              <a href="https://www.linkedin.com/in/bichenwu">Bichen Wu</a>,
+              <a href="https://sites.google.com/view/xiaoliangdai/">Xiaoliang Dai</a>,
+              <a href="https://kunpengli1994.github.io/">Kunpeng Li</a>,
+              <a href="https://yinan-zhao.github.io/">Yinan Zhao</a>,
+              <a href="https://hangzhang.org/">Hang Zhang</a>,
+              <a href="https://www.linkedin.com/in/peizhao-zhang-14846042/">Peizhao Zhang</a>,
+              <a href="https://sites.google.com/site/vajdap">Peter Vajda</a>,
+              <a href="https://www.ece.utexas.edu/people/faculty/diana-marculescu">Diana Marculescu</a>
+              <br>
+              <em>CVPR</em>, 2023
+              <br>
+              <a href="https://jeff-liangf.github.io/projects/ovseg/">project page</a>,
+              <a href="https://arxiv.org/abs/2210.04150">arxiv</a>,
+              <a href="https://github.com/facebookresearch/ov-seg">code</a>,
+              <a href="https://huggingface.co/spaces/facebook/ov-seg">Huggingface demo</a>,
+              <a href="https://www.youtube.com/watch?v=xIUSG0pLNyo">7min video</a>,
+              <a href="https://wqpoq.h5.xeknow.com/sl/2sFndr">1hour talk (chinese)</a>,
+              <p></p>
+              <p>For the first time, we show open-vocabulary generalist models match the performance of supervised specialist models without dataset-specific adaptations.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/supmae.png" alt="supmae" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2205.14540">
+                <papertitle>SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners</papertitle>
+              </a>
+              <br>
+              <strong>Feng Liang</strong>,
+              <a href="https://scholar.google.com/citations?user=a7AMvgkAAAAJ">Yangguang Li</a>,
+              <a href="https://www.ece.utexas.edu/people/faculty/diana-marculescu">Diana Marculescu</a>
+              <br>
+              <em>AAAI EIW</em>, 2024, <b>Best Poster Award</b>
+              <br>
+              <a href="https://arxiv.org/abs/2205.14540">arxiv</a>,
+              <a href="https://github.com/enyac-group/supmae">code</a>,
+              <a href="./data/supmae_best_poster_award_EIW_2024.pdf">award</a>
+              <p></p>
+              <p>SupMAE extends MAE to a fully-supervised setting by adding a supervised classification branch, thereby enabling MAE to effectively learn global features from golden labels.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/declip.png" alt="declip" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2110.05208">
+                <papertitle>Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm</papertitle>
+              </a>
+              <br>
+              <a href="https://yg256li.github.io/">Yangguang Li*</a>,
+              <strong>Feng Liang*</strong>,
+              <a href="https://openreview.net/profile?id=~Lichen_Zhao1">Lichen Zhao*</a>,
+              <a href="">Yufeng Cui</a>,
+              <a href="https://wlouyang.github.io/">Wanli Ouyang</a>
+              <a href="https://amandajshao.github.io/">Jing Shao</a>,
+              <a href="https://forwil.xyz/">Fengwei Yu</a>,
+              <a href="https://yan-junjie.github.io/">Junjie Yan</a>
+              <br>
+              <em>ICLR</em>, 2022
+              <br>
+              <a href="https://arxiv.org/abs/2110.05208">arxiv</a>,
+              <a href="data/declip.bib">bibtex</a>,
+              <a href="https://github.com/Sense-GVT/DeCLIP">code</a>,
+              <a href="https://recorder-v3.slideslive.com/#/share?share=62378&s=d93b81b1-d9de-42b7-9437-8acc34fbf94e">video presentation</a>
+              <p></p>
+              <p>We propose Data efficient CLIP (DeCLIP), a method to efficiently train CLIP via utilizing the widespread supervision among the image-text data.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/ant.png" alt="ant" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="">
+                <papertitle>ANT: Adapt Network Across Time for Efficient Video Processing</papertitle>
+              </a>
+              <br>
+              <strong>Feng Liang</strong>,
+              <a href="https://rudychin.github.io/">Ting-Wu Chin</a>,
+              <a href="https://www.linkedin.com/in/yang-zhou-a03262192/">Yang Zhou</a>,
+              <a href="https://www.ece.utexas.edu/people/faculty/diana-marculescu">Diana Marculescu</a>
+              <br>
+              <em>CVPRW ECV</em>, 2022
+              <br>
+              <a href="https://openaccess.thecvf.com/content/CVPR2022W/ECV/papers/Liang_ANT_Adapt_Network_Across_Time_for_Efficient_Video_Processing_CVPRW_2022_paper.pdf">arxiv</a>,
+              <a href="./data/ant.bib">bibtex</a>,
+              <p></p>
+              <p>we propose the ANT framework to harness these redundancies for reducing the computational cost of video processing. The proposed ANT adapts a purpose-fit network by inspecting the semantic differences between frames.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/repre.png" alt="repre" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2201.06857">
+                <papertitle>RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training</papertitle>
+              </a>
+              <br>
+              <a href="">Luya Wang</a>,
+              <strong>Feng Liang</strong>,
+              <a href="https://yg256li.github.io/">Yangguang Li</a>,
+              <a href="">Honggang Zhang</a>,
+              <a href="https://wlouyang.github.io/">Wanli Ouyang</a>,
+              <a href="https://amandajshao.github.io/">Jing Shao</a>
+              <br>
+              <em>IJCAI</em>, 2022, <b>Long oral</b>
+              <br>
+              <a href="https://arxiv.org/abs/2201.06857">arxiv</a>,
+              <a href="data/repre.bib">bibtex</a>,
+              <p></p>
+              <p>We propose RePre to extends contrastive frameworks by adding a branch for reconstructing raw image pixels in parallel with the existing contrastive objective.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/crnas_iclr2020.png" alt="crnas" width="280" height="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/1912.11234">
+                <papertitle>Computation Reallocation for Object Detection</papertitle>
+              </a>
+              <br>
+              <strong>Feng Liang</strong>,
+              <a href="https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en">Chen Lin</a>,
+              <a href="https://scholar.google.com/citations?user=DEf4GkcAAAAJ&hl=zh-CN">Ronghao Guo</a>,
+              <a href="https://msunming.github.io/">Ming Sun</a>,
+              <a href="https://wuwei-ai.org/">Wei Wu</a>,
+              <a href="https://yan-junjie.github.io/">Junjie Yan</a>,
+              <a href="https://wlouyang.github.io/">Wanli Ouyang</a>
+              <br>
+              <em>ICLR</em>, 2020
+              <br>
+              <a href="https://arxiv.org/abs/1912.11234">arXiv</a>,
+              <a href="data/crnas_iclr2020.bib">bibtex</a>
+              <p></p>
+              <p>We present CRNAS that can learn computation reallocation strategies across different feature resolution and spatial position diectly on the target detection dataset.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/oqa.png" alt="oqa" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Shen_Once_Quantization-Aware_Training_High_Performance_Extremely_Low-Bit_Architecture_Search_ICCV_2021_paper.pdf">
+                <papertitle>Once Quantization-Aware Training: High Performance Extremely Low-bit Architecture Search</papertitle>
+              </a>
+              <br>
+              <a href="http://scholar.google.com/citations?user=o7vrw6IAAAAJ&hl=en">Mingzhu Shen</a>,
+              <strong>Feng Liang</strong>,
+              <a href="https://scholar.google.com/citations?user=8i7Z15kAAAAJ&hl=en">Ruihao Gong</a>,
+              <a href="https://scholar.google.com/citations?user=3UzXL-AAAAAJ&hl=en">Yuhang Li</a>,
+              <a href="https://scholar.google.com/citations?user=ZfB7vEcAAAAJ&hl=en">Chuming Li</a>,
+              <a href="https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en">Chen Lin</a>,
+              <a href="http://scholar.google.com.hk/citations?user=qzWfLRIAAAAJ&hl=en">Fengwei Yu</a>,
+              <a href="https://yan-junjie.github.io/">Junjie Yan</a>,
+              <a href="https://wlouyang.github.io/">Wanli Ouyang</a>
+              <br>
+              <em>ICCV</em>, 2021
+              <br>
+              <a href="https://arxiv.org/abs/2010.04354">arxiv</a>,
+              <a href="data/oqa.bib">bibtex</a>,
+              <a href="https://github.com/LaVieEnRoseSMZ/OQA">code</a>
+              <p></p>
+              <p>We present Once Quantization-Aware Training (OQAT), a novel framework that searches for quantized efficient models and deploys their quantized weights at the same time without additional post-process.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/edo_cvpr2021.png" alt="fqn" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2012.13587">
+                <papertitle>Inception Convolution with Efficient Dilation Search</papertitle>
+              </a>
+              <br>
+              <a href="">Jie Liu</a>,
+              <a href="https://scholar.google.com/citations?user=ZfB7vEcAAAAJ&hl=en">Chuming Li</a>,
+              <strong>Feng Liang</strong>,
+              <a href="https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en">Chen Lin</a>,
+              <a href="https://yan-junjie.github.io/">Junjie Yan</a>,
+              <a href="https://wlouyang.github.io/">Wanli Ouyang</a>,
+              <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html">Dong Xu</a>
+              <br>
+              <em>CVPR</em>, 2021, <b>Oral</b>
+              <br>
+              <a href="https://arxiv.org/abs/2012.13587">arxiv</a>,
+              <a href="data/edo_cvpr2021.bib">bibtex</a>,
+              <a href="https://github.com/yifan123/IC-Conv">code</a>
+              <p></p>
+              <p>We proposed a new mutant of dilated convolution, namely inception (dilated) convolution where the convolutions have independent dilation among different axes, channels and layers.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/fqn_cvpr2019.png" alt="fqn" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fully_Quantized_Network_for_Object_Detection_CVPR_2019_paper.pdf">
+                <papertitle>Fully Quantized Network for Object Detection</papertitle>
+              </a>
+              <br>
+              <a href="https://scholar.google.com/citations?user=2Ha91noAAAAJ&hl=en">Rundong Li</a>,
+              <a href="https://scholar.google.com/citations?user=QOZnsYYAAAAJ&hl=zh-CN">Yan Wang</a>,
+              <strong>Feng Liang</strong>,
+              <a href="http://qinhongwei.com/academic/">Hongwei Qin</a>,
+              <a href="https://yan-junjie.github.io/">Junjie Yan</a>,
+              <a href="http://sist.shanghaitech.edu.cn/sist_en/2018/0820/c3846a31782/page.htm">Rui Fan</a>
+              <br>
+              <em>CVPR</em>, 2019
+              <br>
+              <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fully_Quantized_Network_for_Object_Detection_CVPR_2019_paper.pdf">CVF</a>,
+              <a href="data/fqn_cvpr2019.bib">bibtex</a>,
+              <a href="https://github.com/lirundong/quant-pack">code</a>
+              <p></p>
+              <p>We apply our techniques to produce fully quantized 4-bit detectors based on RetinaNet and Faster RCNN, and show that these achieve state-of-the-art performance for quantized detectors.</p>
+            </td>
+          </tr>
+          
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/nasgem_aaai2021.png" alt="nasgem" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://arxiv.org/abs/2007.04452">
+                <papertitle>NASGEM: Neural Architecture Search via Graph Embedding Method</papertitle>
+              </a>
+              <br>
+              <a href="https://scholar.google.com/citations?user=_2cil-YAAAAJ&hl=en">Hsin-Pai Cheng</a>,
+              <a href="http://scholar.google.com/citations?user=Lgr7--oAAAAJ&hl=en">Tunhou Zhang</a>,
+              <a href="https://scholar.google.com/citations?user=UF_1P_gAAAAJ&hl=en">Yixing Zhang</a>,
+              <a href="https://scholar.google.com/citations?user=h_qciFEAAAAJ&hl=zh-CN">Shiyu Li</a>,
+              <strong>Feng Liang</strong>,
+              <a href="https://www.unr.edu/cse/people/feng-yan">Feng Yan</a>,
+              <a href="http://mengli.me/">Meng Li</a>,
+              <a href="https://v-chandra.github.io/about/">Vikas Chandra</a>,
+              <a href="https://ece.duke.edu/faculty/hai-helen-li">Hai Li</a>,
+              <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a>
+              <br>
+              <em>AAAI</em>, 2021
+              <br>
+              <a href="https://arxiv.org/abs/2007.04452">arxiv</a>,
+              <a href="data/nasgem_aaai2021.bib">bibtex</a>,
+<!--              <a href="">code</a>-->
+              <p></p>
+              <p>We propose NASGEM which stands for Neural Architecture Search via Graph Embedding Method. NASGEM is driven by a novel graph embedding method equipped with similarity measures to capture the graph topology information.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/scalenas.png" alt="scalenas" width="280" height="160" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="">
+                <papertitle>ScaleNAS: One-Shot Learning of Scale-Aware Representations for Visual Recognition</papertitle>
+              </a>
+              <br>
+              <a href="https://scholar.google.com/citations?user=_2cil-YAAAAJ&hl=en">Hsin-Pai Cheng*</a>,
+              <strong>Feng Liang*</strong>,
+              <a href="http://mengli.me/">Meng Li</a>,
+              <a href="https://bowenc0221.github.io/">Bowen Cheng</a>,
+              <a href="https://www.unr.edu/cse/people/feng-yan">Feng Yan</a>,
+              <a href="https://ece.duke.edu/faculty/hai-helen-li">Hai Li</a>,
+              <a href="https://v-chandra.github.io/about/">Vikas Chandra</a>,
+              <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a>
+              <br>
+              <em>AutoML-Conf</em>, 2022
+              <br>
+              <a href="https://arxiv.org/abs/2011.14584">arxiv</a>,
+              <a href="data/scalenas.bib">bibtex</a>
+<!--              <a href="">code</a>-->
+              <p></p>
+              <p>We present ScaleNAS, a one-shot learning method for exploring scale-aware representations. Scale-NAS solves multiple tasks at a time by searching multi-scalefeature  aggregation.</p>
+            </td>
+          </tr>
+
+        </tbody></table>
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Selected Honors</heading>
+                <ul>
+                  <li style="line-height:30px"> MLCommons ML and Systems Rising Stars by MLCommons 2024.</li>
+                  <li style="line-height:30px"> Qualcomm Innovation Fellowship Finalist by Qualcomm 2024.</li>
+                  <li style="line-height:30px"> UT Austin Engineering Fellowship by UT Austin, 2021 & 2023.</li>
+                  <li style="line-height:30px"> Excellent Student Leader by Tsinghua University, 2018.</li>
+                  <li style="line-height:30px"> National Scholarship by Ministry of Education of China, 2014 & 2015.</li>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Service</heading>
+                <p>
+                  <li style="line-height:30px"> Reviewer of Journals: TPAMI, IJCV, TNNLS</li>
+                  <li style="line-height:30px"> Reviewer of Conferences: CVPR 2023/2024, ICCV 2023, NeurIPS 2023/2024, ICLR 2024, ECCV 2024</li>
+                </p>
+            </td>
+          </tr>
+        </tbody></table>
+
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <a href="https://clustrmaps.com/site/1bhpp" title="Visit tracker">
+                <img src="//www.clustrmaps.com/map_v2.png?d=6oa3ivKJIw5Vmqg_fFtgZxTmVsyrTJMJ_XKxZlDEsRI&cl=ffffff">
+              </a>
+              <p style="text-align:right;font-size:small;">
+                Thanks to <a href="https://github.com/jonbarron/jonbarron_website">Jon Barron</a>
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
