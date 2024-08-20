@@ -18,7 +18,7 @@
           <tr style="padding:0px">
             <td style="padding:2.5%;width:63%;vertical-align:middle">
               <p style="text-align:center">
-                <name>Feng (Jeff) Liang, 梁丰 </name>
+                <name>Zhen Yang, 杨珍 </name>
               </p>
               <p>
                 I am a PhD student at <a href="https://www.utexas.edu/">UT Austin</a>, fortunately working with <a href="https://www.ece.utexas.edu/people/faculty/diana-marculescu">Prof. Diana Marculescu</a>. I obtained my master and bachelor degree from <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a> and <a href="http://english.hust.edu.cn/index.htm">Huazhong University of Science and Technology</a>, respectively.
