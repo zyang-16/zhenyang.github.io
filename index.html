@@ -94,7 +94,7 @@ and reasoning.</li>
             </td>
             <td width="75%" valign="middle">
               <a href="https://arxiv.org/abs/***">
-                <papertitle>UI2Code^N: A Visual Language Model for Test-Time Scalable Interactive UI-to-Code Generation</papertitle>
+                <papertitle>UI2Code^N: UI-to-Code Generation as Interactive Visual Optimization</papertitle>
               </a>
               <br>
               <strong>Zhen Yang*</strong>,
@@ -111,7 +111,17 @@ and reasoning.</li>
               <a href="https://arxiv.org/pdf/2511.08195">paper</a>,
               <a href="https://github.com/zai-org/UI2Code_N">code</a>
               <p></p>
-              <p>UI2Code^N is a visual language foundation model trained through staged pretraining, fine-tuning, and reinforcement learning to achieve foundational improvements in multimodal coding, which unifies three key capabilities: UI-to-code generation, UI editing, and UI polishing.
+              <p>
+				  We reformulate UI-to-code as an interactive visual optimization problem, where code generation is embedded in a closedloop process of execution, visual inspection, and iterative refinement driven by rendered visual
+feedback. To address the non-differentiability of
+visual objectives and the noise of absolute visual
+evaluators, we propose Relative Visual Policy
+Optimization (RVPO), a preference-based reinforcement learning method that optimizes relative
+visual rankings among rendered candidates under
+execution feedback. We instantiate this paradigm
+in UI2CodeN, an open-source 9B model trained
+via continual pre-training, supervised fine-tuning,
+and reinforcement learning.
 			  </p>
             </td>
           </tr>
